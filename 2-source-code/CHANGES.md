@@ -298,3 +298,8 @@ Measured on the demo laptop (real GPU) and as a mid-range phone on 4G:
   phone itself (`DemoMembers` in member.js): sign in with any mobile number, the code is shown on screen, then the
   member card, saved stores, members-only offers and Find my car, kept in that browser only. With the server nothing
   changes.
+
+## Rounded solid icons (12 Nov)
+- The phone's category chips and tab bar use a new set of filled icons (`ICS` in assets.js): a shop front for All,
+  a hanger for Fashion, fork and knife, sofa, lotus; a house, a map with a pin, a ticket with %, a calendar and a
+  person. Chip icons red (white when selected), tab icons slate (pale pink on the selected pill).
