@@ -292,3 +292,9 @@ Measured on the demo laptop (real GPU) and as a mid-range phone on 4G:
   `tour_end` in `launch_record.js`): the app's intro, the floors lifting apart (Blender), the kiosk in one take
   (Dining with live wait times, Bellagio's route over the floors, the guided walk up the escalators, the arrival), the
   route across the lifted floors (Blender) and an end card. `launch_music.py` takes the number of cycles (3: 50 s).
+
+## Demo membership without a server (12 Nov)
+- On a copy with no server (GitHub Pages, the one-file build, a Claude page) membership now works as a demo on the
+  phone itself (`DemoMembers` in member.js): sign in with any mobile number, the code is shown on screen, then the
+  member card, saved stores, members-only offers and Find my car, kept in that browser only. With the server nothing
+  changes.

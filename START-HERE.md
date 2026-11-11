@@ -46,7 +46,8 @@ the printed code with two phones before printing in quantity. If the app moves t
 3. Open `https://YOUR-DOMAIN/?view=app` on a phone, then make the QR codes from that address.
 
 **This hosted copy is a demo:** every visitor sees the sample data, and changes made in its admin hub stay in that
-person's browser. For the live version (one shared set of offers, wait times and events updated from the admin hub,
+person's browser. Membership works as a demo too: sign in with any mobile number, the code is shown on screen, and the
+membership is kept on that phone. For the live version (one shared set of offers, wait times and events updated from the admin hub,
 member sign-in, an admin password), run `server.js` from `2-source-code/`. See `DEPLOY.md` there; `render.yaml`
 deploys it on Render in a few clicks.
 
