@@ -1,0 +1,21 @@
+# Render Blueprint: one always-on web service with a small disk for the live data.
+# On render.com: New > Blueprint > pick this repository > Apply. See DEPLOY.md.
+services:
+  - type: web
+    name: ireo-boulevard
+    runtime: node
+    plan: starter                 # always on; the free plan sleeps and forgets the admin's edits on restart
+    buildCommand: "true"          # nothing to build: no packages
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    envVars:
+      - key: DATA_DIR
+        value: /var/data
+      - key: ADMIN_KEY
+        generateValue: true       # Render makes a random admin password; read it in the service's Environment tab
+      - key: NODE_VERSION
+        value: "20"
+    disk:
+      name: live-data
+      mountPath: /var/data
+      sizeGB: 1

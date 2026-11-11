@@ -1,0 +1,18 @@
+# live data and the admin password stay on each machine / server
+data/live-db.json
+data/live-db.json.tmp
+data/admin-password.txt
+# members (personal data: never in the repository)
+data/members.json
+data/members.json.tmp
+# local tools and build output
+tools/
+node_modules/
+web/dist/
+*.blend1
+__pycache__/
+# the zip of assets/ (the folder itself is in the repository) and the untouched copy of the original project
+ireo-boulevard-assets.zip
+ireo-wayfinding/
+.claude/
+tools/browser-tmp/

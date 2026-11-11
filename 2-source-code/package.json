@@ -1,0 +1,15 @@
+{
+  "name": "ireo-boulevard-wayfinding",
+  "version": "7.5.1",
+  "private": true,
+  "description": "Ireo Boulevard 3D wayfinding: kiosk, phone app and admin hub, with a small live-data server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lan": "node server.js --lan",
+    "test": "node tests/engine.test.js && node tests/adsched.test.js && node tests/server.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

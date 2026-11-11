@@ -1,0 +1,416 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="110 37 620 1169" font-family="Inter,Arial,sans-serif">
+<rect x="110" y="37" width="620" height="1169" fill="#F4EFE6"/>
+<text x="124" y="63" font-size="16" font-weight="700" fill="#1D3D30">Ground floor: 112 beacons (25 in the pilot, gold)</text>
+<polygon points="446,87 689,87 689,248 606,248 606,217 586,217 586,197 446,197" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="446,331 586,331 586,428 446,428" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="516" y="379.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Coyu</text>
+<polygon points="586,330 637,330 637,378 689,378 689,428 586,428" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="150,477 239,477 239,530 150,530" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="194.5" y="503.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Starbucks</text>
+<polygon points="261,477 350,477 350,496 295,496 295,530 261,530" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="305" y="487" font-size="6.5" text-anchor="middle" fill="#6B6B60">Parisian</text>
+<polygon points="444,477 551,477 551,530 444,530" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="497.5" y="503.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nicobar</text>
+<polygon points="584,477 607,477 607,530 584,530" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="595.5" y="503.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Sobe Decor</text>
+<polygon points="607,477 691,477 691,530 607,530" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="649" y="503.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Hatsu</text>
+<polygon points="150,551 207,551 207,601 150,601" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Lovebirds</text>
+<polygon points="150,601 207,601 207,653 150,653" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="627" font-size="6.5" text-anchor="middle" fill="#6B6B60">Lovebirds</text>
+<polygon points="292,551 350,551 350,601 292,601" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="321" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="292,601 350,601 350,653 292,653" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="321" y="627" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="444,551 502,551 502,601 444,601" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="473" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="444,601 502,601 502,653 444,653" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="473" y="627" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="633,551 691,551 691,601 633,601" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="662" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Eka</text>
+<polygon points="633,601 691,601 691,653 633,653" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="662" y="627" font-size="6.5" text-anchor="middle" fill="#6B6B60">Eka</text>
+<polygon points="150,674 207,674 207,724 150,724" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="699" font-size="6.5" text-anchor="middle" fill="#6B6B60">Suvasa</text>
+<polygon points="150,724 207,724 207,777 150,777" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="750.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Suvasa</text>
+<polygon points="243,674 265,674 265,741 243,741" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="254" y="707.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Forest Essentials</text>
+<polygon points="298,674 350,674 350,724 298,724" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="324" y="699" font-size="6.5" text-anchor="middle" fill="#6B6B60">Pure Home + Living</text>
+<polygon points="298,724 350,724 350,777 298,777" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="324" y="750.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Da Milano</text>
+<polygon points="243,757 298,757 298,777 243,777" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="444,674 496,674 496,724 444,724" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="470" y="699" font-size="6.5" text-anchor="middle" fill="#6B6B60">Pinklay</text>
+<polygon points="444,724 496,724 496,777 444,777" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="470" y="750.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Kama Ayurveda</text>
+<polygon points="529,674 551,674 551,741 529,741" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="540" y="707.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Little Fat Lulu</text>
+<polygon points="496,757 551,757 551,777 496,777" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="523.5" y="767" font-size="6.5" text-anchor="middle" fill="#6B6B60">Ruh</text>
+<polygon points="584,673 612,673 612,719 691,719 691,775 584,775" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="640" y="747" font-size="6.5" text-anchor="middle" fill="#6B6B60">Spin</text>
+<polygon points="609,799 659,799 659,775 682,775 682,799 691,799 691,832 609,832" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="150,854 207,854 207,906 150,906" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="880" font-size="6.5" text-anchor="middle" fill="#6B6B60">Masaba</text>
+<polygon points="150,906 207,906 207,957 150,957" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="931.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Shantanu &amp; Nikhil</text>
+<polygon points="243,854 298,854 298,873 243,873" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="270.5" y="863.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Sundays</text>
+<polygon points="243,889 265,889 265,957 243,957" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="254" y="923" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nappa Dori</text>
+<polygon points="298,854 350,854 350,906 298,906" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="324" y="880" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nykaa Luxe</text>
+<polygon points="298,906 350,906 350,957 298,957" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="324" y="931.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nykaa Luxe</text>
+<polygon points="444,854 551,854 551,873 488,873 488,905 501,905 501,954 444,954" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="470" y="900" font-size="6.5" text-anchor="middle" fill="#6B6B60">VegNonVeg</text>
+<polygon points="528,905 551,905 551,940 528,940" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="585,854 691,854 691,905 585,905" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="638" y="879.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Perona</text>
+<polygon points="585,905 655,905 655,954 585,954" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="444,981 532,981 532,1063 444,1063" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="532,981 691,981 691,1063 532,1063" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="611.5" y="1022" font-size="6.5" text-anchor="middle" fill="#6B6B60">Soulfoods</text>
+<polygon points="460,1063 551,1063 551,1080 460,1080" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="584,1063 675,1063 675,1080 584,1080" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="150,977 207,977 207,1029 150,1029" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="1003" font-size="6.5" text-anchor="middle" fill="#6B6B60">Cafe Dori</text>
+<polygon points="150,1029 207,1029 207,1080 150,1080" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="178.5" y="1054.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Cafe Dori</text>
+<polygon points="292,977 350,977 350,1029 292,1029" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="321" y="1003" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nappa Dori</text>
+<polygon points="292,1029 350,1029 350,1080 292,1080" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="321" y="1054.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">JJ Valaya</text>
+<polygon points="150,1101 312,1101 312,1154 150,1154" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="231" y="1127.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Ensemble</text>
+<polygon points="312,1101 350,1101 350,1154 312,1154" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="331" y="1127.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">OTT by Tarun Tahiliani</text>
+<line x1="250" y1="455" x2="305.5" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="250" y1="455" x2="250" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="305.5" y1="455" x2="372" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="455" x2="515" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="455" x2="372" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="515" y1="455" x2="567" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="455" x2="596" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="455" x2="567" y2="503.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="455" x2="700" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="455" x2="700" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="540" x2="178.5" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="540" x2="140" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="178.5" y1="540" x2="194.5" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="194.5" y1="540" x2="225" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="540" x2="250" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="540" x2="225" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="250" y1="540" x2="321" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="321" y1="540" x2="372" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="540" x2="473" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="540" x2="372" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="473" y1="540" x2="497.5" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="497.5" y1="540" x2="567" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="540" x2="649" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="540" x2="567" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="649" y1="540" x2="662" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="662" y1="540" x2="700" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="540" x2="700" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="663" x2="178.5" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="663" x2="140" y2="750.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="178.5" y1="663" x2="225" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="663" x2="321" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="663" x2="225" y2="707.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="321" y1="663" x2="324" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="324" y1="663" x2="372" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="663" x2="470" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="663" x2="372" y2="699" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="470" y1="663" x2="473" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="473" y1="663" x2="567" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="663" x2="651.5" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="663" x2="567" y2="707.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="651.5" y1="663" x2="662" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="662" y1="663" x2="700" y2="663" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="663" x2="700" y2="747" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="800" x2="225" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="800" x2="140" y2="880" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="800" x2="270.5" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="800" x2="225" y2="863.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="270.5" y1="800" x2="297" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="297" y1="800" x2="304" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="304" y1="800" x2="372" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="800" x2="470" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="800" x2="372" y2="880" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="470" y1="800" x2="471" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="471" y1="800" x2="493" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="493" y1="800" x2="523.5" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="523.5" y1="800" x2="567" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="800" x2="600" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="800" x2="567" y2="880" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="967" x2="178.5" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="178.5" y1="967" x2="225" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="967" x2="321" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="321" y1="967" x2="324" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="324" y1="967" x2="372" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="1090" x2="178.5" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="1090" x2="140" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="178.5" y1="1090" x2="225" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="1090" x2="231" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="1090" x2="225" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="231" y1="1090" x2="321" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="321" y1="1090" x2="331" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="331" y1="1090" x2="372" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="1090" x2="488" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="1090" x2="372" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="1090" x2="372" y2="1176" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="488" y1="1090" x2="505.5" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="505.5" y1="1090" x2="629.5" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="629.5" y1="1090" x2="700" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="750.5" x2="140" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="140" y1="880" x2="140" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="707.5" x2="225" y2="749" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="749" x2="225" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="863.5" x2="225" y2="881" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="881" x2="225" y2="923" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="225" y1="923" x2="225" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="699" x2="372" y2="750.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="750.5" x2="372" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="880" x2="372" y2="904" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="372" y1="904" x2="372" y2="967" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="503.5" x2="567" y2="540" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="707.5" x2="567" y2="749" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="567" y1="749" x2="567" y2="800" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="747" x2="700" y2="816" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="816" x2="700" y2="879.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="1022" x2="700" y2="879.5" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="700" y1="1022" x2="700" y2="1090" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="230" x2="596" y2="272" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="272" x2="596" y2="365" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="365" x2="596" y2="405" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="365" x2="637" y2="365" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="596" y1="405" x2="596" y2="455" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="596" cy="230" r="4" fill="#1D3D30"/>
+<text x="596" y="223" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-01</text>
+<circle cx="596" cy="272" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="596" y="265" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-02</text>
+<circle cx="596" cy="309.2" r="4" fill="#1D3D30"/>
+<text x="596" y="302.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-03</text>
+<circle cx="596" cy="346.4" r="4" fill="#1D3D30"/>
+<text x="596" y="339.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-04</text>
+<circle cx="637" cy="365" r="4" fill="#1D3D30"/>
+<text x="637" y="358" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-05</text>
+<circle cx="596" cy="417.5" r="4" fill="#1D3D30"/>
+<text x="596" y="410.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-06</text>
+<circle cx="250" cy="455" r="4" fill="#1D3D30"/>
+<text x="250" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-07</text>
+<circle cx="293.2" cy="455" r="4" fill="#1D3D30"/>
+<text x="293.2" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-08</text>
+<circle cx="335.7" cy="455" r="4" fill="#1D3D30"/>
+<text x="335.7" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-09</text>
+<circle cx="396.9" cy="455" r="4" fill="#1D3D30"/>
+<text x="396.9" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-10</text>
+<circle cx="459" cy="455" r="4" fill="#1D3D30"/>
+<text x="459" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-11</text>
+<circle cx="496.3" cy="455" r="4" fill="#1D3D30"/>
+<text x="496.3" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-12</text>
+<circle cx="534.5" cy="455" r="4" fill="#1D3D30"/>
+<text x="534.5" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-13</text>
+<circle cx="572.8" cy="455" r="4" fill="#1D3D30"/>
+<text x="572.8" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-14</text>
+<circle cx="614.4" cy="455" r="4" fill="#1D3D30"/>
+<text x="614.4" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-15</text>
+<circle cx="657.2" cy="455" r="4" fill="#1D3D30"/>
+<text x="657.2" y="448" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-16</text>
+<circle cx="700" cy="467.1" r="4" fill="#1D3D30"/>
+<text x="700" y="460.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-17</text>
+<circle cx="567" cy="497.4" r="4" fill="#1D3D30"/>
+<text x="567" y="490.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-18</text>
+<circle cx="250" cy="497.5" r="4" fill="#1D3D30"/>
+<text x="250" y="490.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-19</text>
+<circle cx="372" cy="497.5" r="4" fill="#1D3D30"/>
+<text x="372" y="490.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-20</text>
+<circle cx="700" cy="515.7" r="4" fill="#1D3D30"/>
+<text x="700" y="508.70000000000005" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-21</text>
+<circle cx="200.6" cy="540" r="4" fill="#1D3D30"/>
+<text x="200.6" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-22</text>
+<circle cx="256.5" cy="540" r="4" fill="#1D3D30"/>
+<text x="256.5" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-23</text>
+<circle cx="327.4" cy="540" r="4" fill="#1D3D30"/>
+<text x="327.4" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-24</text>
+<circle cx="365.6" cy="540" r="4" fill="#1D3D30"/>
+<text x="365.6" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-25</text>
+<circle cx="403.6" cy="540" r="4" fill="#1D3D30"/>
+<text x="403.6" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-26</text>
+<circle cx="454.1" cy="540" r="4" fill="#1D3D30"/>
+<text x="454.1" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-27</text>
+<circle cx="510.1" cy="540" r="4" fill="#1D3D30"/>
+<text x="510.1" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-28</text>
+<circle cx="554.4" cy="540" r="4" fill="#1D3D30"/>
+<text x="554.4" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-29</text>
+<circle cx="604.8" cy="540" r="4" fill="#1D3D30"/>
+<text x="604.8" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-30</text>
+<circle cx="655.5" cy="540" r="4" fill="#1D3D30"/>
+<text x="655.5" y="533" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-31</text>
+<circle cx="140" cy="546.2" r="4" fill="#1D3D30"/>
+<text x="140" y="539.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-32</text>
+<circle cx="700" cy="558.5" r="4" fill="#1D3D30"/>
+<text x="700" y="551.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-33</text>
+<circle cx="225" cy="570.8" r="4" fill="#1D3D30"/>
+<text x="225" y="563.8" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-34</text>
+<circle cx="372" cy="589.2" r="4" fill="#1D3D30"/>
+<text x="372" y="582.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-35</text>
+<circle cx="700" cy="595.4" r="4" fill="#1D3D30"/>
+<text x="700" y="588.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-36</text>
+<circle cx="567" cy="601.5" r="4" fill="#1D3D30"/>
+<text x="567" y="594.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-37</text>
+<circle cx="140" cy="607.7" r="4" fill="#1D3D30"/>
+<text x="140" y="600.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-38</text>
+<circle cx="225" cy="607.7" r="4" fill="#1D3D30"/>
+<text x="225" y="600.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-39</text>
+<circle cx="700" cy="632.3" r="4" fill="#1D3D30"/>
+<text x="700" y="625.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-40</text>
+<circle cx="567" cy="638.4" r="4" fill="#1D3D30"/>
+<text x="567" y="631.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-41</text>
+<circle cx="372" cy="644.6" r="4" fill="#1D3D30"/>
+<text x="372" y="637.6" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-42</text>
+<circle cx="140" cy="663" r="4" fill="#1D3D30"/>
+<text x="140" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-43</text>
+<circle cx="205.1" cy="663" r="4" fill="#1D3D30"/>
+<text x="205.1" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-44</text>
+<circle cx="276.2" cy="663" r="4" fill="#1D3D30"/>
+<text x="276.2" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-45</text>
+<circle cx="324" cy="663" r="4" fill="#1D3D30"/>
+<text x="324" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-46</text>
+<circle cx="427.1" cy="663" r="4" fill="#1D3D30"/>
+<text x="427.1" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-47</text>
+<circle cx="485.5" cy="663" r="4" fill="#1D3D30"/>
+<text x="485.5" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-48</text>
+<circle cx="541.9" cy="663" r="4" fill="#1D3D30"/>
+<text x="541.9" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-49</text>
+<circle cx="603.2" cy="663" r="4" fill="#1D3D30"/>
+<text x="603.2" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-50</text>
+<circle cx="651.5" cy="663" r="4" fill="#1D3D30"/>
+<text x="651.5" y="656" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-51</text>
+<circle cx="700" cy="669.5" r="4" fill="#1D3D30"/>
+<text x="700" y="662.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-52</text>
+<circle cx="372" cy="693" r="4" fill="#B8904F"/>
+<text x="372" y="686" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-53</text>
+<circle cx="140" cy="700.5" r="4" fill="#1D3D30"/>
+<text x="140" y="693.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-54</text>
+<circle cx="225" cy="701.1" r="4" fill="#1D3D30"/>
+<text x="225" y="694.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-55</text>
+<circle cx="567" cy="701.1" r="4" fill="#1D3D30"/>
+<text x="567" y="694.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-56</text>
+<circle cx="700" cy="721.2" r="4" fill="#1D3D30"/>
+<text x="700" y="714.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-57</text>
+<circle cx="140" cy="738" r="4" fill="#1D3D30"/>
+<text x="140" y="731" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-58</text>
+<circle cx="372" cy="744.1" r="4" fill="#B8904F"/>
+<text x="372" y="737.1" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-59</text>
+<circle cx="225" cy="749" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="225" y="742" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-60</text>
+<circle cx="567" cy="749" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="567" y="742" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-61</text>
+<circle cx="140" cy="775.3" r="4" fill="#1D3D30"/>
+<text x="140" y="768.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-62</text>
+<circle cx="700" cy="778.4" r="4" fill="#1D3D30"/>
+<text x="700" y="771.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-63</text>
+<circle cx="182.5" cy="800" r="4" fill="#1D3D30"/>
+<text x="182.5" y="793" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-64</text>
+<circle cx="257.5" cy="800" r="4" fill="#B8904F"/>
+<text x="257.5" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-65</text>
+<circle cx="297" cy="800" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="297" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-66</text>
+<circle cx="334.9" cy="800" r="4" fill="#B8904F"/>
+<text x="334.9" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-67</text>
+<circle cx="421" cy="800" r="4" fill="#B8904F"/>
+<text x="421" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-68</text>
+<circle cx="471" cy="800" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="471" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-69</text>
+<circle cx="493" cy="800" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="493" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-70</text>
+<circle cx="529.7" cy="800" r="4" fill="#B8904F"/>
+<text x="529.7" y="793" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-71</text>
+<circle cx="600" cy="800" r="4" fill="#1D3D30"/>
+<text x="600" y="793" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-72</text>
+<circle cx="140" cy="812.3" r="4" fill="#1D3D30"/>
+<text x="140" y="805.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-73</text>
+<circle cx="372" cy="812.3" r="4" fill="#B8904F"/>
+<text x="372" y="805.3" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-74</text>
+<circle cx="567" cy="812.3" r="4" fill="#1D3D30"/>
+<text x="567" y="805.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-75</text>
+<circle cx="225" cy="812.7" r="4" fill="#1D3D30"/>
+<text x="225" y="805.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-76</text>
+<circle cx="700" cy="835.1" r="4" fill="#1D3D30"/>
+<text x="700" y="828.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-77</text>
+<circle cx="140" cy="855.4" r="4" fill="#1D3D30"/>
+<text x="140" y="848.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-78</text>
+<circle cx="372" cy="880" r="4" fill="#B8904F"/>
+<text x="372" y="873" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-79</text>
+<circle cx="567" cy="880" r="4" fill="#1D3D30"/>
+<text x="567" y="873" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-80</text>
+<circle cx="225" cy="881" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="225" y="874" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-81</text>
+<circle cx="700" cy="885.7" r="4" fill="#1D3D30"/>
+<text x="700" y="878.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-82</text>
+<circle cx="140" cy="892.4" r="4" fill="#1D3D30"/>
+<text x="140" y="885.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-83</text>
+<circle cx="700" cy="929.1" r="4" fill="#1D3D30"/>
+<text x="700" y="922.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-84</text>
+<circle cx="225" cy="929.3" r="4" fill="#1D3D30"/>
+<text x="225" y="922.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-85</text>
+<circle cx="140" cy="929.7" r="4" fill="#1D3D30"/>
+<text x="140" y="922.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-86</text>
+<circle cx="372" cy="935.5" r="4" fill="#B8904F"/>
+<text x="372" y="928.5" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-87</text>
+<circle cx="140" cy="967" r="4" fill="#1D3D30"/>
+<text x="140" y="960" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-88</text>
+<circle cx="205.1" cy="967" r="4" fill="#1D3D30"/>
+<text x="205.1" y="960" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-89</text>
+<circle cx="276.2" cy="967" r="4" fill="#B8904F"/>
+<text x="276.2" y="960" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-90</text>
+<circle cx="330" cy="967" r="4" fill="#B8904F"/>
+<text x="330" y="960" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-91</text>
+<circle cx="700" cy="978.6" r="4" fill="#1D3D30"/>
+<text x="700" y="971.6" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-92</text>
+<circle cx="372" cy="991.6" r="4" fill="#B8904F"/>
+<text x="372" y="984.6" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-93</text>
+<circle cx="700" cy="1028.2" r="4" fill="#1D3D30"/>
+<text x="700" y="1021.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-94</text>
+<circle cx="140" cy="1028.5" r="4" fill="#1D3D30"/>
+<text x="140" y="1021.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-95</text>
+<circle cx="225" cy="1028.5" r="4" fill="#1D3D30"/>
+<text x="225" y="1021.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-96</text>
+<circle cx="372" cy="1047" r="4" fill="#B8904F"/>
+<text x="372" y="1040" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-97</text>
+<circle cx="700" cy="1077.6" r="4" fill="#1D3D30"/>
+<text x="700" y="1070.6" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-98</text>
+<circle cx="140" cy="1090" r="4" fill="#1D3D30"/>
+<text x="140" y="1083" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-99</text>
+<circle cx="205.1" cy="1090" r="4" fill="#1D3D30"/>
+<text x="205.1" y="1083" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-100</text>
+<circle cx="269.6" cy="1090" r="4" fill="#B8904F"/>
+<text x="269.6" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-101</text>
+<circle cx="308.1" cy="1090" r="4" fill="#B8904F"/>
+<text x="308.1" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-102</text>
+<circle cx="342.7" cy="1090" r="4" fill="#B8904F"/>
+<text x="342.7" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-103</text>
+<circle cx="384.2" cy="1090" r="4" fill="#B8904F"/>
+<text x="384.2" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-104</text>
+<circle cx="420.8" cy="1090" r="4" fill="#B8904F"/>
+<text x="420.8" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-105</text>
+<circle cx="469.7" cy="1090" r="4" fill="#B8904F"/>
+<text x="469.7" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-106</text>
+<circle cx="524.1" cy="1090" r="4" fill="#B8904F"/>
+<text x="524.1" y="1083" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-107</text>
+<circle cx="567.5" cy="1090" r="4" fill="#1D3D30"/>
+<text x="567.5" y="1083" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-108</text>
+<circle cx="610.9" cy="1090" r="4" fill="#1D3D30"/>
+<text x="610.9" y="1083" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-109</text>
+<circle cx="655.1" cy="1090" r="4" fill="#1D3D30"/>
+<text x="655.1" y="1083" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">G-110</text>
+<circle cx="372" cy="1126.9" r="4" fill="#B8904F"/>
+<text x="372" y="1119.9" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-111</text>
+<circle cx="372" cy="1176" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="372" y="1169" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">G-112</text>
+<text x="397" y="1192" font-size="9" text-anchor="middle" fill="#1D3D30" font-weight="700">MAIN ENTRANCE</text>
+</svg>

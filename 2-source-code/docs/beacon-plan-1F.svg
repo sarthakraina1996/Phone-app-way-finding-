@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="89 10 663 1203" font-family="Inter,Arial,sans-serif">
+<rect x="89" y="10" width="663" height="1203" fill="#F4EFE6"/>
+<text x="103" y="36" font-size="16" font-weight="700" fill="#1D3D30">First floor: 67 beacons (5 in the pilot, gold)</text>
+<polygon points="446,60 705,60 705,246 616,246 616,198 593,198 593,180 446,180" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="446,317 593,317 593,302 647,302 647,343 705,343 705,421 446,421" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="119,471 364,471 364,527 119,527" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="241.5" y="499" font-size="6.5" text-anchor="middle" fill="#6B6B60">Geetanjali Salon</text>
+<polygon points="428,471 558,471 558,527 428,527" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="493" y="499" font-size="6.5" text-anchor="middle" fill="#6B6B60">Manam Chocolate</text>
+<polygon points="593,471 722,471 722,527 593,527" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="657.5" y="499" font-size="6.5" text-anchor="middle" fill="#6B6B60">Vivid Jewels</text>
+<polygon points="119,549 177,549 177,603 119,603" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Khara Kapas</text>
+<polygon points="119,603 177,603 177,657 119,657" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="630" font-size="6.5" text-anchor="middle" fill="#6B6B60">Vanilla Moon</text>
+<polygon points="306,549 364,549 364,603 306,603" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="335" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="306,603 364,603 364,657 306,657" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="335" y="630" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="428,549 487,549 487,603 428,603" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="457.5" y="576" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="428,603 487,603 487,657 428,657" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="457.5" y="630" font-size="6.5" text-anchor="middle" fill="#6B6B60">Good Earth</text>
+<polygon points="664,549 722,549 722,577 664,577" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="664,577 722,577 722,605 664,605" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="693" y="591" font-size="6.5" text-anchor="middle" fill="#6B6B60">SKO</text>
+<polygon points="664,605 722,605 722,657 664,657" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="693" y="631" font-size="6.5" text-anchor="middle" fill="#6B6B60">Shades of India</text>
+<polygon points="119,678 177,678 177,732 119,732" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="705" font-size="6.5" text-anchor="middle" fill="#6B6B60">Amit Aggarwal</text>
+<polygon points="119,732 177,732 177,786 119,786" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="289,678 364,678 364,786 342,786 342,766 301,766 301,730 289,730" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="333" y="726" font-size="6.5" text-anchor="middle" fill="#6B6B60">Blue Tokai</text>
+<polygon points="428,678 503,678 503,730 491,730 491,766 451,766 451,786 428,786" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="462" y="720" font-size="6.5" text-anchor="middle" fill="#6B6B60">Greenr</text>
+<polygon points="612,678 665,678 665,733 612,733" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="638.5" y="705.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Kaarigar</text>
+<polygon points="612,738 665,738 665,786 612,786" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="119,868 177,868 177,922 119,922" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="895" font-size="6.5" text-anchor="middle" fill="#6B6B60">Chique</text>
+<polygon points="119,922 177,922 177,976 119,976" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="949" font-size="6.5" text-anchor="middle" fill="#6B6B60">Mink</text>
+<polygon points="342,868 364,868 364,976 289,976 289,920 301,920 301,888 342,888" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="331" y="934" font-size="6.5" text-anchor="middle" fill="#6B6B60">India Circus</text>
+<polygon points="428,868 452,868 452,976 428,976" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="428,997 452,997 452,1105 428,1105" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<polygon points="452,885 610,885 610,868 722,868 722,1105 593,1105 593,1088 558,1088 558,1105 452,1105" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="590" y="990" font-size="6.5" text-anchor="middle" fill="#6B6B60">Cinépolis</text>
+<polygon points="119,997 177,997 177,1051 119,1051" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="1024" font-size="6.5" text-anchor="middle" fill="#6B6B60">Ranna Gill</text>
+<polygon points="119,1051 177,1051 177,1105 119,1105" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="148" y="1078" font-size="6.5" text-anchor="middle" fill="#6B6B60">Ranna Gill</text>
+<polygon points="306,997 364,997 364,1050 306,1050" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="335" y="1023.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Truefitt &amp; Hill</text>
+<polygon points="306,1050 364,1050 364,1077 306,1077" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="335" y="1063.5" font-size="6.5" text-anchor="middle" fill="#6B6B60">Wasabi</text>
+<polygon points="306,1077 364,1077 364,1105 306,1105" fill="#FFFFFF" stroke="#C9C0AE" stroke-width="0.8"/>
+<text x="335" y="1091" font-size="6.5" text-anchor="middle" fill="#6B6B60">Nykd by Nykaa</text>
+<polygon points="119,1127 364,1127 364,1183 119,1183" fill="#ECE6DA" stroke="#C9C0AE" stroke-width="0.8"/>
+<line x1="187" y1="538" x2="241.5" y2="538" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="538" x2="187" y2="576" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="241.5" y1="538" x2="296" y2="538" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="538" x2="296" y2="576" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="496" y1="538" x2="582" y2="538" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="496" y1="538" x2="496" y2="576" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="582" y1="538" x2="654" y2="538" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="654" y1="538" x2="654" y2="563" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="667" x2="244" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="667" x2="187" y2="705" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="667" x2="296" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="667" x2="244" y2="748" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="667" x2="326.5" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="326.5" y1="667" x2="335" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="335" y1="667" x2="457.5" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="457.5" y1="667" x2="465.5" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="465.5" y1="667" x2="496" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="496" y1="667" x2="549" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="667" x2="600" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="667" x2="549" y2="748" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="600" y1="667" x2="654" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="600" y1="667" x2="600" y2="735" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="987" x2="244" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="987" x2="296" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="987" x2="326.5" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="326.5" y1="987" x2="335" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="335" y1="987" x2="440" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="440" y1="987" x2="448" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="448" y1="987" x2="455" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="1116" x2="241.5" y2="1116" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="241.5" y1="1116" x2="296" y2="1116" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="576" x2="187" y2="630" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="630" x2="187" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="705" x2="187" y2="759" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="759" x2="187" y2="895" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="895" x2="187" y2="949" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="949" x2="187" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="1024" x2="187" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="1024" x2="187" y2="1078" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="187" y1="1078" x2="187" y2="1116" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="576" x2="296" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="1063.5" x2="296" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="1063.5" x2="296" y2="1091" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="296" y1="1091" x2="296" y2="1116" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="748" x2="244" y2="776" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="776" x2="244" y2="797" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="797" x2="244" y2="857" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="857" x2="244" y2="878" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="878" x2="244" y2="904" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="244" y1="904" x2="244" y2="987" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="496" y1="576" x2="496" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="654" y1="563" x2="654" y2="591" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="654" y1="591" x2="654" y2="631" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="654" y1="631" x2="654" y2="667" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="748" x2="549" y2="776" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="776" x2="549" y2="797" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="797" x2="549" y2="857" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="857" x2="549" y2="876" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="549" y1="876" x2="575" y2="876" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="600" y1="735" x2="600" y2="876" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="600" y1="735" x2="638.5" y2="735" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="575" y1="876" x2="600" y2="876" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="575" y1="876" x2="575" y2="885" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="582" y1="380" x2="582" y2="538" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="582" y1="312" x2="582" y2="380" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="582" y1="312" x2="603" y2="290" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<line x1="638.5" y1="735" x2="665" y2="735" stroke="#B9C7BE" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="603" cy="290" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="603" y="283" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-01</text>
+<circle cx="582" cy="318.2" r="4" fill="#1D3D30"/>
+<text x="582" y="311.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-02</text>
+<circle cx="582" cy="355.3" r="4" fill="#1D3D30"/>
+<text x="582" y="348.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-03</text>
+<circle cx="582" cy="424.2" r="4" fill="#1D3D30"/>
+<text x="582" y="417.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-04</text>
+<circle cx="582" cy="462.2" r="4" fill="#1D3D30"/>
+<text x="582" y="455.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-05</text>
+<circle cx="582" cy="506.4" r="4" fill="#1D3D30"/>
+<text x="582" y="499.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-06</text>
+<circle cx="187" cy="538" r="4" fill="#1D3D30"/>
+<text x="187" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-07</text>
+<circle cx="223.3" cy="538" r="4" fill="#1D3D30"/>
+<text x="223.3" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-08</text>
+<circle cx="259.7" cy="538" r="4" fill="#1D3D30"/>
+<text x="259.7" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-09</text>
+<circle cx="545.1" cy="538" r="4" fill="#1D3D30"/>
+<text x="545.1" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-10</text>
+<circle cx="612" cy="538" r="4" fill="#1D3D30"/>
+<text x="612" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-11</text>
+<circle cx="654" cy="538" r="4" fill="#1D3D30"/>
+<text x="654" y="531" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-12</text>
+<circle cx="496" cy="544.3" r="4" fill="#1D3D30"/>
+<text x="496" y="537.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-13</text>
+<circle cx="296" cy="550.7" r="4" fill="#1D3D30"/>
+<text x="296" y="543.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-14</text>
+<circle cx="187" cy="594" r="4" fill="#1D3D30"/>
+<text x="187" y="587" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-15</text>
+<circle cx="296" cy="594.2" r="4" fill="#1D3D30"/>
+<text x="296" y="587.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-16</text>
+<circle cx="496" cy="594.2" r="4" fill="#1D3D30"/>
+<text x="496" y="587.2" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-17</text>
+<circle cx="654" cy="604.3" r="4" fill="#1D3D30"/>
+<text x="654" y="597.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-18</text>
+<circle cx="296" cy="636.7" r="4" fill="#1D3D30"/>
+<text x="296" y="629.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-19</text>
+<circle cx="187" cy="648.5" r="4" fill="#1D3D30"/>
+<text x="187" y="641.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-20</text>
+<circle cx="496" cy="648.8" r="4" fill="#1D3D30"/>
+<text x="496" y="641.8" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-21</text>
+<circle cx="225" cy="667" r="4" fill="#1D3D30"/>
+<text x="225" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-22</text>
+<circle cx="263.5" cy="667" r="4" fill="#1D3D30"/>
+<text x="263.5" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-23</text>
+<circle cx="326.5" cy="667" r="4" fill="#1D3D30"/>
+<text x="326.5" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-24</text>
+<circle cx="396.3" cy="667" r="4" fill="#1D3D30"/>
+<text x="396.3" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-25</text>
+<circle cx="445.3" cy="667" r="4" fill="#1D3D30"/>
+<text x="445.3" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-26</text>
+<circle cx="535.8" cy="667" r="4" fill="#1D3D30"/>
+<text x="535.8" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-27</text>
+<circle cx="574.5" cy="667" r="4" fill="#1D3D30"/>
+<text x="574.5" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-28</text>
+<circle cx="612" cy="667" r="4" fill="#1D3D30"/>
+<text x="612" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-29</text>
+<circle cx="654" cy="667" r="4" fill="#1D3D30"/>
+<text x="654" y="660" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-30</text>
+<circle cx="600" cy="704.1" r="4" fill="#1D3D30"/>
+<text x="600" y="697.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-31</text>
+<circle cx="244" cy="704.4" r="4" fill="#1D3D30"/>
+<text x="244" y="697.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-32</text>
+<circle cx="549" cy="704.4" r="4" fill="#1D3D30"/>
+<text x="549" y="697.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-33</text>
+<circle cx="187" cy="717" r="4" fill="#1D3D30"/>
+<text x="187" y="710" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-34</text>
+<circle cx="625.7" cy="735" r="4" fill="#1D3D30"/>
+<text x="625.7" y="728" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-35</text>
+<circle cx="665" cy="735" r="4" fill="#1D3D30"/>
+<text x="665" y="728" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-36</text>
+<circle cx="244" cy="748" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="741" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-37</text>
+<circle cx="549" cy="748" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="549" y="741" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-38</text>
+<circle cx="187" cy="771.4" r="4" fill="#1D3D30"/>
+<text x="187" y="764.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-39</text>
+<circle cx="244" cy="776" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="769" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">1F-40</text>
+<circle cx="549" cy="776" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="549" y="769" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-41</text>
+<circle cx="600" cy="777.9" r="4" fill="#1D3D30"/>
+<text x="600" y="770.9" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-42</text>
+<circle cx="244" cy="797" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="790" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">1F-43</text>
+<circle cx="549" cy="797" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="549" y="790" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-44</text>
+<circle cx="187" cy="827" r="4" fill="#1D3D30"/>
+<text x="187" y="820" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-45</text>
+<circle cx="600" cy="827" r="4" fill="#1D3D30"/>
+<text x="600" y="820" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-46</text>
+<circle cx="244" cy="857" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="850" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">1F-47</text>
+<circle cx="549" cy="857" r="5.5" fill="#1D3D30" stroke="#fff" stroke-width="1.5"/>
+<text x="549" y="850" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-48</text>
+<circle cx="600" cy="876" r="4" fill="#1D3D30"/>
+<text x="600" y="869" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-49</text>
+<circle cx="187" cy="876.5" r="4" fill="#1D3D30"/>
+<text x="187" y="869.5" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-50</text>
+<circle cx="244" cy="878" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="871" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">1F-51</text>
+<circle cx="244" cy="904" r="5.5" fill="#B8904F" stroke="#fff" stroke-width="1.5"/>
+<text x="244" y="897" font-size="6" text-anchor="middle" fill="#B8904F" font-weight="700">1F-52</text>
+<circle cx="187" cy="931" r="4" fill="#1D3D30"/>
+<text x="187" y="924" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-53</text>
+<circle cx="244" cy="948.7" r="4" fill="#1D3D30"/>
+<text x="244" y="941.7" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-54</text>
+<circle cx="257" cy="987" r="4" fill="#1D3D30"/>
+<text x="257" y="980" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-55</text>
+<circle cx="341.2" cy="987" r="4" fill="#1D3D30"/>
+<text x="341.2" y="980" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-56</text>
+<circle cx="378.2" cy="987" r="4" fill="#1D3D30"/>
+<text x="378.2" y="980" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-57</text>
+<circle cx="415.3" cy="987" r="4" fill="#1D3D30"/>
+<text x="415.3" y="980" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-58</text>
+<circle cx="448" cy="987" r="4" fill="#1D3D30"/>
+<text x="448" y="980" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-59</text>
+<circle cx="187" cy="999.3" r="4" fill="#1D3D30"/>
+<text x="187" y="992.3" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-60</text>
+<circle cx="296" cy="999.8" r="4" fill="#1D3D30"/>
+<text x="296" y="992.8" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-61</text>
+<circle cx="296" cy="1044.4" r="4" fill="#1D3D30"/>
+<text x="296" y="1037.4" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-62</text>
+<circle cx="187" cy="1060" r="4" fill="#1D3D30"/>
+<text x="187" y="1053" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-63</text>
+<circle cx="296" cy="1084.1" r="4" fill="#1D3D30"/>
+<text x="296" y="1077.1" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-64</text>
+<circle cx="187" cy="1116" r="4" fill="#1D3D30"/>
+<text x="187" y="1109" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-65</text>
+<circle cx="223.3" cy="1116" r="4" fill="#1D3D30"/>
+<text x="223.3" y="1109" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-66</text>
+<circle cx="265.7" cy="1116" r="4" fill="#1D3D30"/>
+<text x="265.7" y="1109" font-size="6" text-anchor="middle" fill="#1D3D30" font-weight="700">1F-67</text>
+</svg>

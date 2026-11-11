@@ -1,0 +1,5 @@
+# never in the repository: the server's password, live data and member records
+**/data/admin-password.txt
+**/data/live-db.json*
+**/data/members.json*
+node_modules/
