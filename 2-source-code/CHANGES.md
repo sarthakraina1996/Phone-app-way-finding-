@@ -303,3 +303,5 @@ Measured on the demo laptop (real GPU) and as a mid-range phone on 4G:
 - The phone's category chips and tab bar use a new set of filled icons (`ICS` in assets.js): a shop front for All,
   a hanger for Fashion, fork and knife, sofa, lotus; a house, a map with a pin, a ticket with %, a calendar and a
   person. Chip icons red (white when selected), tab icons slate (pale pink on the selected pill).
+- (13 Nov) The same solid icons now also on the phone's quick tiles, the kiosk's categories, bottom bar and services,
+  and the admin hub's menu (`icn()` in assets.js picks the solid icon where there is one).
